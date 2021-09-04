@@ -8,5 +8,9 @@ namespace Ejempo1
 {
     class asignature
     {
+
+        matematica,
+        lengua,
+        sociales; 
     }
 }
